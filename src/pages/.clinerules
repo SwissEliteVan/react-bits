@@ -1,0 +1,15 @@
+# RÈGLES VITALES ET ABSOLUES DU PROJET
+
+## 1. INTERDICTION FORMELLE DE CASSER LE DESIGN DU TEMPLATE
+- Tu dois IMPÉRATIVEMENT conserver le style et le design du template React actuel.
+- N'utilise AUCUNE bibliothèque de style externe. L'utilisation de Tailwind CSS ou de Bootstrap est STRICTEMENT INTERDITE.
+- N'importe AUCUNE bibliothèque d'icônes externe. L'utilisation de `lucide-react`, `heroicons` ou toute autre librairie est STRICTEMENT INTERDITE.
+- Utilise UNIQUEMENT le CSS natif, le style en ligne (inline styles) ou les classes existantes qui sont déjà présents dans le projet.
+
+## 2. MÉTHODE DE TRAVAIL
+- Avant de créer ou de styliser une nouvelle page, tu dois TOUJOURS analyser la structure et les classes CSS des autres fichiers du projet (comme `App.jsx` ou les composants existants) pour les imiter à la perfection.
+- Ton code doit être le plus simple possible pour qu'il s'intègre de manière totalement invisible avec le design d'origine. N'invente jamais un design sorti de nulle part.
+
+## 3. CONTENU ET LANGUE
+- Le site est destiné à une clientèle suisse (agence Clicom). Le ton doit être professionnel, orienté "Retour sur investissement" (ROI) et rédigé dans un français irréprochable.
+- Ne supprime jamais le code existant sans en avoir d'abord compris l'utilité dans le template d'origine.
