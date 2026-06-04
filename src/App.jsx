@@ -13,11 +13,13 @@ import ShowcasePage from './pages/ShowcasePage';
 import FavoritesPage from './pages/FavoritesPage';
 import SponsorsPage from './pages/SponsorsPage';
 import ToolsPage from './pages/ToolsPage';
+import Acquisition from './Acquisition';
 
 function AppContent() {
   return (
     <>
       <Providers>
+        <Acquisition />
         <Routes>
           <Route exact path="/" element={<LandingPage />} />
           <Route exact path="/showcase" element={<ShowcasePage />} />
