@@ -520,12 +520,12 @@ const Hero = () => {
             <span className="ln-hero-tag-new" style={{ background: accentColor, color: accentFg }}>New Component</span>
             Line Waves <FaArrowRight size={10} />
           </Link>
-          <h1 className="ln-hero-headline"><span className="ln-hero-headline-line">React components for</span><br /><span className="ln-hero-headline-line">creative developers</span></h1>
+          <h1 className="ln-hero-headline"><span className="ln-hero-headline-line">Accélérez la croissance de votre PME avec une stratégie digitale rentable et mesurable</span></h1>
           <p className="ln-hero-description">
-            Highly customizable animated components & backgrounds that drop into your project and instantly make it stand out
+            Clicom accompagne les PME et commerces suisses dans leur croissance digitale. 91% des consommateurs effectuent des recherches en ligne avant d'acheter localement. Nous garantissons une transparence totale et une stricte conformité nLPD.
           </p>
           <div className="ln-hero-buttons">
-            <Link to="/get-started/index" className="ln-hero-btn ln-hero-btn-primary" style={{ background: accentColor, borderColor: accentColor, color: accentFg }}>Browse Components</Link>
+            <Link to="/get-started/index" className="ln-hero-btn ln-hero-btn-primary" style={{ background: accentColor, borderColor: accentColor, color: accentFg }}>Diagnostic offert</Link>
           </div>
         </div>
         <div className="ln-hero-right">
